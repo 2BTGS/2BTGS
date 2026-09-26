@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Bader, a computer science student pursuing a bachelor's degree at the University of Nottingham.
+I'm Bader, a second-year computer science student pursuing a bachelor's degree at the University of Nottingham.
 
 I love designing and building whatever I can imagine.
 
-My main tech stack is C, Java, and Python, but I am expanding my learning while in school. My favourite tools consist of Figma and Canva.
+My main tech stack is C, Java, Python, Haskell, and Assembly, and I am expanding my skills while in school. My favourite tools consist of Figma, VS Code, JetBrains IDEs, and Docker.
 
 I have a bunch of private repos I'm working on, plus a few public ones too. 
 
